@@ -12,7 +12,7 @@ The file includes details such as task & context of synchronization, number of s
 If you want to share your dataset, or if you know a dataset that could be included, you can contribute by the following way:
 
 - Fork this repository.
-- Add your dataset to Human_synchronization_datasets.xlsx.
+- Download Human_synchronization_datasets.xlsx and update it with your new dataset
 - Submit a pull request.
 
 # Contact
