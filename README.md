@@ -1,5 +1,8 @@
 # Human synchronization datasets
-This repository collects datasets related to human synchronization research. Researchers can contribute new datasets and access an up-to-date list of existing ones.
+This repository collects datasets related to human synchronization research. 
+Researchers can contribute new datasets and access an up-to-date list of existing ones.
+The scope of this collection focuses on human behavioural and neuro-physiological synchrony. 
+Already collected dataset spans very diverse context such as sensorimotor synchronization (SMS), social interactions, sports and musical performances.
 
 # How to access the datasets
 Download the latest version of Human_synchronization_datasets.xlsx from [A_review_on_human_synchronization_datasets.xlsx].
